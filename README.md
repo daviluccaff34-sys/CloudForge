@@ -1,2 +1,23 @@
+
 # CloudForge
-A universal cloud-based build platform for compiling kernels, Android ROMs, Linux systems, images and custom projects.
+
+Universal Cloud Compilation Platform.
+
+CloudForge is a cloud-based build system
+for compiling:
+
+- Linux Kernels
+- Android Kernels
+- Android ROMs
+- GSI Images
+- Linux Systems
+- Custom Projects
+
+## Version
+
+0.1.0
+
+## Build Infrastructure
+
+GitHub Actions
+
